@@ -1,10 +1,10 @@
-Privacy Policy for Yatzy Dice
+Privacy Policy for Yatzy Basic
 
-  Last updated: January 2025
+  Last updated: January 2026
 
   Overview
 
-  Yatzy Dice is designed with your privacy in mind. We do not collect, store, or share any personal
+  Yatzy Basic is designed with your privacy in mind. We do not collect, store, or share any personal
   information.
 
   Data Collection
@@ -28,4 +28,4 @@ Privacy Policy for Yatzy Dice
   Contact
 
   If you have questions about this privacy policy, please open an issue at:
-  https://github.com/yourusername/yatzy-support
+  https://github.com/olavlind/Yatzy-Basic-Support
